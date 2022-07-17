@@ -1,5 +1,7 @@
 # rebase-preserve-merge
 
+More info: [https://stackoverflow.com/a/15915431/4300378](https://stackoverflow.com/a/15915431/4300378)
+
 ## with the feature branch (!)
 
 ### intial state
